@@ -25,4 +25,6 @@ meaning that the separate parts act together in such a way that the combined eff
 
 ### OK! Thats enough theory lets start building robots.
 
-<span style="color: #da0808; font-family: Babas; font-size: 1em;">...Hai...
+var colors = require('colors');
+
+console.log('hello'.green); // outputs green text
