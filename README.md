@@ -1,15 +1,15 @@
-# <p align="center"> who says mechanical can't do automation?
-## <p align="center"> ...Hai...
-## <p align="center"> welcome to Mechatronics 
-#### what is mechatronics ?
+ ## <p align="center"> WHO SAYS MECHANICAL CAN'T DO AUTOMATION?
+# <p align="center">...Hai...
+# <p align="center">Welcome to Mechatronics 
+## What is mechatronics ?
 
-The integration of **mechanical engineering** with *electronics* and *intelligent computer control*.
+### The integration of ***mechanical engineering*** with *electronics* and *intelligent computer control*.
 
-#### But why?
+## But why?
 
-Well, its all about **multi-disciplinary skills** and creating  **smart machines** that are aware of their surroundings and can make decisions.
+### Well, its all about *multi-disciplinary skills* and creating  _smart machines_ that are aware of their surroundings and can make decisions.
 
-#### Tell me more !
+#### Tell me more ! :point_down:
 It can be viewed as '**modern mechanical engineering design**' in the sense that the design of the mechanical system must be performed together with that of the electrical/electronic and computer control aspects that will comprise the complete system.
 
 #### Can we have some examples? 
@@ -36,9 +36,6 @@ Thanks to its simple and accessible user experience, Arduino has been used in th
 
 
 
+var colors = require('colors');
 
-
-
-
-
-
+console.log('hello'.green); // outputs green text
