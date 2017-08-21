@@ -38,7 +38,7 @@ Thanks to its simple and accessible user experience, Arduino has been used in th
 
 ### commonly used hardware 
 
-<img src="images/ar3.jpg" width="600"></center></p>
+<img src="images/ar3.jpg" width="100"></center></p>
 
 
 ###  How do we install arduino?
