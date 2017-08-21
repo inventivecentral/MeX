@@ -1,4 +1,4 @@
- ## <p align="center"> WHO SAYS MECHANICAL CAN'T DO AUTOMATION?
+ # <p align="center"> WHO SAYS MECHANICAL CAN'T DO AUTOMATION?
 # <p align="center">...Hai...
 # <p align="center">Welcome to Mechatronics 
 ##  What is mechatronics ?
