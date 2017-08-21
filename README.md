@@ -36,7 +36,7 @@ Thanks to its simple and accessible user experience, Arduino has been used in th
 
 [click! To know more about ARDUINO](https://www.arduino.cc/en/Guide/Introduction)
 
-### commonly used hardware 
+### Commonly used hardware 
 
 <img src="images/ar3.jpg" width="200"></center></p>
 
