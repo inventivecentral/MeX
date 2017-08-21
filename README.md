@@ -38,12 +38,16 @@ Thanks to its simple and accessible user experience, Arduino has been used in th
 
 ### commonly used hardware 
 
-<img src="images/ar3.jpg" width="100"></center></p>
+<img src="images/ar3.jpg" width="200"></center></p>
 
 
-###  How do we install arduino?
+###  How do we install arduinoIDE?
 
 * [click! To download the software (windows)](https://www.arduino.cc/download_handler.php)
-* install the software in your PC
+* install the downloaded software in your PC
+
+###  How do we initialise Arduino UNO?
 * plug in your arduino via USB
-* 
+* Make sure that the right com port is selected.
+* Open blink sketch.
+* Upload the blink sketch
