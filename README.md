@@ -34,4 +34,8 @@ meaning that the separate parts act together in such a way that the combined eff
 Thanks to its simple and accessible user experience, Arduino has been used in thousands of different projects and applications.
  The Arduino software is easy-to-use for beginners, yet flexible enough for advanced users. It runs on Mac, Windows, and Linux
 
-[To know more about ARDUINO](https://www.arduino.cc/en/Guide/Introduction)
+[click! To know more about ARDUINO](https://www.arduino.cc/en/Guide/Introduction)
+
+###  How do we install arduino?
+
+* list
