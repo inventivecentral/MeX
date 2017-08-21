@@ -25,17 +25,12 @@ meaning that the separate parts act together in such a way that the combined eff
 
 ### OK! Thats enough theory let's start building robots.
 
-###OHH wait! we got to know about Arduino!!!
+### OHH wait! we got to know about Arduino!!!
 
 ### What is Arduino?
 
-#### Arduino is an *open-source* electronics platform based on easy-to-use hardware and software.
+#### Arduino is an **open-source* electronics platform based on easy-to-use hardware and software.
 
 Thanks to its simple and accessible user experience, Arduino has been used in thousands of different projects and applications.
  The Arduino software is easy-to-use for beginners, yet flexible enough for advanced users. It runs on Mac, Windows, and Linux
 
-
-
-var colors = require('colors');
-
-console.log('hello'.green); // outputs green text
