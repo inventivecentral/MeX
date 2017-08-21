@@ -51,3 +51,5 @@ Thanks to its simple and accessible user experience, Arduino has been used in th
 * Make sure that the right com port is selected.
 * Open blink sketch.
 * Upload the blink sketch
+
+# *under construction please wait ...*
