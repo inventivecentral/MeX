@@ -1,7 +1,7 @@
  ## <p align="center"> WHO SAYS MECHANICAL CAN'T DO AUTOMATION?
 # <p align="center">...Hai...
 # <p align="center">Welcome to Mechatronics 
-## What is mechatronics ?
+## * What is mechatronics ?
 
 ### The integration of ***mechanical engineering*** with *electronics* and *intelligent computer control*.
 
@@ -23,11 +23,11 @@ meaning that the separate parts act together in such a way that the combined eff
 #### Other examples?
  Other examples of mechatronics are the **digital thermostat** and the **anti-lock brake system.** Both were originally designed as mechanical systems and have been improved later by their integration with electronic controls and digital computing elements.
 
-### - OK! Thats enough theory let's start building robots.
+### * OK! Thats enough theory let's start building robots.
 
-### - OHH wait! we got to know about Arduino!!!
+### * OHH wait! we got to know about Arduino!!!
 
-### - What is Arduino?
+### -** What is Arduino?
 
 #### Arduino is an **open-source* electronics platform based on easy-to-use hardware and software.
 
