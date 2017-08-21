@@ -38,4 +38,5 @@ Thanks to its simple and accessible user experience, Arduino has been used in th
 
 ###  How do we install arduino?
 
-* list
+* [click! To download the software (windows)](https://www.arduino.cc/download_handler.php)
+* install the software in your PC
