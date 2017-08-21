@@ -36,6 +36,10 @@ Thanks to its simple and accessible user experience, Arduino has been used in th
 
 [click! To know more about ARDUINO](https://www.arduino.cc/en/Guide/Introduction)
 
+### commonly used hardware 
+<img src="images/ar3.jpg" width="600"></center></p>
+
+
 ###  How do we install arduino?
 
 * [click! To download the software (windows)](https://www.arduino.cc/download_handler.php)
