@@ -29,7 +29,7 @@ meaning that the separate parts act together in such a way that the combined eff
 
 ###  What is Arduino:question:
 
-#### Arduino is an **open-source* electronics platform based on easy-to-use hardware and software.
+### Arduino is an *open-source* electronics platform based on easy-to-use hardware and software.
 
 Thanks to its simple and accessible user experience, Arduino has been used in thousands of different projects and applications.
  The Arduino software is easy-to-use for beginners, yet flexible enough for advanced users. It runs on Mac, Windows, and Linux
