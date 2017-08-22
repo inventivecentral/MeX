@@ -47,15 +47,15 @@ Thanks to its simple and accessible user experience, Arduino has been used in th
 
 * [click! To download the software (windows)](https://www.arduino.cc/download_handler.php)
 
-<img src="images/i001.jpg" width="200"></center></p>
+</center></p><img src="images/i001.jpg" width="400">
 
-<img src="images/i002.jpg" width="200"></center></p>
+</center></p><img src="images/i002.jpg" width="400">
 
-<img src="images/i003.jpg" width="200"></center></p>
+</center></p><img src="images/i003.jpg" width="400">
 
-<img src="images/i004.jpg" width="200"></center></p>
+</center></p><img src="images/i004.jpg" width="400">
 
-<img src="images/i005.jpg" width="200"></center></p>
+</center></p><img src="images/i005.jpg" width="400">
 
 
 * install the downloaded software in your PC
