@@ -47,18 +47,20 @@ Thanks to its simple and accessible user experience, Arduino has been used in th
 
 * [click! To download the software (windows)](https://www.arduino.cc/download_handler.php)
 
-</center></p> <img src="images/i001.jpg" width="400">
+* follow the red dot to finish installation 
 
-</center></p> <img src="images/i002.jpg" width="400">
+</center></p> <img src="images/i001.jpg">
 
-</center></p> <img src="images/i003.jpg" width="400">
+</center></p> <img src="images/i002.jpg">
 
-</center></p> <img src="images/i004.jpg" width="400">
+</center></p> <img src="images/i003.jpg">
 
-</center></p> <img src="images/i005.jpg" width="400">
+</center></p> <img src="images/i004.jpg">
+
+</center></p> <img src="images/i005.jpg">
 
 
-* install the downloaded software in your PC
+
 
 ###  How do we initialise Arduino UNO?
 
