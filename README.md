@@ -64,11 +64,10 @@ Thanks to its simple and accessible user experience, Arduino has been used in th
 
 ###  How do we initialise Arduino UNO?
 
-* [click! To download the software (windows)](https://github.com/inventivecentral/MeX/blob/master/initialize.md)
 
-* plug in your arduino via USB
-* Make sure that the right com port is selected.
-* Open blink sketch.
-* Upload the blink sketch
+* [click! initialise](https://github.com/inventivecentral/MeX/blob/master/initialize.md)
+
+
+
 
 
