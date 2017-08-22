@@ -1,4 +1,4 @@
- # <p align="center"> WHO SAYS MECHANICAL CAN'T DO AUTOMATION:question:
+ # <p align="center"> WHO SAYS MECHANICAL CAN'T DO AUTOMATION ?
 # <p align="center">...Hai...
 # <p align="center">Welcome to Mechatronics 
 ##  What is mechatronics :question:
@@ -36,6 +36,8 @@ Thanks to its simple and accessible user experience, Arduino has been used in th
 
 [click! To know more about ARDUINO](https://www.arduino.cc/en/Guide/Introduction)
 
+[click! Arduino HOME PAGE](https://www.arduino.cc/)
+
 ### Commonly used hardware 
 
 <img src="images/ar3.jpg" width="200"></center></p>
@@ -44,12 +46,27 @@ Thanks to its simple and accessible user experience, Arduino has been used in th
 ###  How do we install arduinoIDE:question:
 
 * [click! To download the software (windows)](https://www.arduino.cc/download_handler.php)
+
+<img src="images/i001.jpg" width="200"></center></p>
+
+<img src="images/i002.jpg" width="200"></center></p>
+
+<img src="images/i003.jpg" width="200"></center></p>
+
+<img src="images/i004.jpg" width="200"></center></p>
+
+<img src="images/i005.jpg" width="200"></center></p>
+
+
 * install the downloaded software in your PC
 
 ###  How do we initialise Arduino UNO?
+
+* [click! To download the software (windows)](https://github.com/inventivecentral/MeX/blob/master/initialize.md)
+
 * plug in your arduino via USB
 * Make sure that the right com port is selected.
 * Open blink sketch.
 * Upload the blink sketch
 
-# *under construction please wait ...*:raised_hand:
+
