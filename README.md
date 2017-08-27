@@ -22,9 +22,9 @@ meaning that the separate parts act together in such a way that the combined eff
 #### Other examples :question:
  Other examples of mechatronics are the **digital thermostat** and the **anti-lock brake system.** Both were originally designed as mechanical systems and have been improved later by their integration with electronic controls and digital computing elements.
 
-###  OK! Thats enough theory let's start building robots.
+##  OK! Thats enough theory let's start building robots.
 
-###  OHH wait! we got to know about Arduino!!!
+##  OHH wait! we got to know about Arduino!!!
 
 ###  What is Arduino:question:
 
