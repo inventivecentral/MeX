@@ -45,7 +45,7 @@ Thanks to its simple and accessible user experience, Arduino has been used in th
 
 ###  How do we install arduinoIDE:question:
 
-* [click! To download the software (windows)](https://www.arduino.cc/download_handler.php)
+* [click! To download the software (windows)](https://www.arduino.cc/en/Main/Donate)
 
 * follow the red dot to finish installation 
 
