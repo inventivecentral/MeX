@@ -4,7 +4,7 @@
 
 ### The integration of ***mechanical engineering*** with *electronics* and *intelligent computer control*.
 
-## But why :question:
+## why :question:
 
 ### Well, its all about *multi-disciplinary skills* and creating  _smart machines_ that are aware of their surroundings and can make decisions.
 
