@@ -1,6 +1,6 @@
  # <p align="center"> WHO SAYS MECHANICAL CAN'T DO AUTOMATION ?
 # <p align="center">...Hai...
-# <p align="center">Welcome to Mechatronics 
+# <p align="center">Welcome
 ##  What is mechatronics :question:
 
 ### The integration of ***mechanical engineering*** with *electronics* and *intelligent computer control*.
